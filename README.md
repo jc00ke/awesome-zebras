@@ -12,16 +12,36 @@ about the history and future of startups that want to take a different path. Als
 to listen to ZigZag's episode with [Mara Zapeda](https://twitter.com/marazepeda) and [Jenn Brandel](https://twitter.com/jenniferbrandel) titled
 [An Alternative to Silicon Valley's "Unicorn" Bullsh*t](https://zigzagpod.com/2019/04/25/s4-ep02-an-alternative-to-silicon-valleys-unicorn-bullsht/).
 
-## Education
+## Segments
+
+### Education
 
 * [Switchboard](https://switchboardhq.com/)
 
-## Media
+### Media
 
 * [Hearken](https://www.wearehearken.com/)
 * [Stable Genius Productions](https://www.stableg.com/)
 
-## Technology
+### Technology
 
 * [Feel Train](https://feeltrain.com/)
 * [Sphaera](https://sphaera.world/)
+
+## Products/Services
+
+### Browsers
+
+* Mozilla [Firefox](https://getfirefox.com)
+
+### Community Management
+
+* [Switchboard](https://switchboardhq.com/)
+
+### Newsletters
+
+* [Mailchimp](https://mailchimp.com)
+
+### Podcasts
+
+* [ZigZag](https://zigzagpod.com) from [Stable Genius](https://www.stableg.com)
