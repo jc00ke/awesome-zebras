@@ -19,7 +19,7 @@ to listen to ZigZag's episode with [Mara Zapeda](https://twitter.com/marazepeda)
 ## Media
 
 * [Hearken](https://www.wearehearken.com/)
-* [Stable G Productions](https://www.stableg.com/)
+* [Stable Genius Productions](https://www.stableg.com/)
 
 ## Technology
 
